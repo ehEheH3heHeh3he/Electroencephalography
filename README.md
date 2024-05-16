@@ -1,2 +1,2 @@
 # Electroencephalography
-This is my priject here !
+This is my project here !
